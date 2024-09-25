@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+**/.idea/
+**/.mvn/
+**/target/
+**/mvnw.cmd
+**/mvnw
+
+### VS Code ###
+**/.vscode/
+**/.venv/
