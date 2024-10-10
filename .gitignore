@@ -8,3 +8,14 @@
 ### VS Code ###
 **/.vscode/
 **/.venv/
+
+
+# Python #
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+**/*.env
+**/.pytest_cache/
+**/.ipynb_checkpoints/
+**/env/
